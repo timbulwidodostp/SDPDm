@@ -25,5 +25,4 @@ summary(SDPDm_2)
 # Olah Data Semarang
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
-
 # Finished
