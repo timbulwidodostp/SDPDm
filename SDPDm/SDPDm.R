@@ -11,7 +11,7 @@ SDPDm$logc <- log(SDPDm$sales)
 SDPDm$logp <- log(SDPDm$price/SDPDm$cpi)
 SDPDm$logy <- log(SDPDm$ndi/SDPDm$cpi)
 SDPDm$lpm <- log(SDPDm$pimin/SDPDm$cpi)
-SDPDm_ = read.csv("https://raw.githubusercontent.com/timbulwidodostp/SDPDm_/main/SDPDm_/SDPDm_.csv", sep = ";")
+SDPDm_ = read.csv("https://raw.githubusercontent.com/timbulwidodostp/SDPDm/main/SDPDm/SDPDm_.csv", sep = ";")
 SDPDm_ <- as.matrix(SDPDm_)
 str(SDPDm_)
 SDPDm_ <- rownor(SDPDm_)
@@ -25,4 +25,5 @@ summary(SDPDm_2)
 # Olah Data Semarang
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
+
 # Finished
