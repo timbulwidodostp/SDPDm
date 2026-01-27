@@ -1,6 +1,8 @@
 # SDPDm
 Spatial dynamic panel data lag model with fixed effects maximum likelihood estimation Use SDPDm (SDPDmod) With (In) R Software
 
+https://www.youtube.com/watch?v=dlfGLW9B_qQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
